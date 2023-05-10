@@ -1,5 +1,5 @@
 {
-    "name": "cip/php-mediainfo-bin",
+    "name": "acip/php-mediainfo-bin",
     "description": "Static binary of MediaInfo",
     "version": "23.04",
     "type": "library",
