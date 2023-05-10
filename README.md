@@ -9,7 +9,7 @@ This repository contains a static binary distribution of [MediaInfo](https://med
 You can install the package via composer:
 
 ```bash
-composer require --dev cip/php-mediainfo-bin
+composer require cip/php-mediainfo-bin
 ```
 
 ## Usage
