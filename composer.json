@@ -1,0 +1,19 @@
+{
+    "name": "acip/php-mediainfo-bin",
+    "description": "Static binary of MediaInfo",
+    "version": "23.04",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ciprian Amariei",
+            "email": "ciprian.amariei@gmail.com"
+        }
+    ],
+    "suggest": {
+        "mhor/php-mediainfo": "PHP wrapper around the mediainfo command"
+    },
+    "bin": [
+        "MediaInfo_CLI_23.04_Lambda_x86_64/bin/mediainfo"
+    ]
+}
